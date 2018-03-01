@@ -1,0 +1,11 @@
+C:\Prashant\Projects\ApprovaNextPOCS\APIs\ApprovaOSAuthService\ApprovaOSAuthService\ApprovaOSAuthService\bin\Release\netcoreapp2.0\ApprovaOSAuthService.deps.json
+C:\Prashant\Projects\ApprovaNextPOCS\APIs\ApprovaOSAuthService\ApprovaOSAuthService\ApprovaOSAuthService\bin\Release\netcoreapp2.0\ApprovaOSAuthService.runtimeconfig.json
+C:\Prashant\Projects\ApprovaNextPOCS\APIs\ApprovaOSAuthService\ApprovaOSAuthService\ApprovaOSAuthService\bin\Release\netcoreapp2.0\ApprovaOSAuthService.runtimeconfig.dev.json
+C:\Prashant\Projects\ApprovaNextPOCS\APIs\ApprovaOSAuthService\ApprovaOSAuthService\ApprovaOSAuthService\bin\Release\netcoreapp2.0\ApprovaOSAuthService.dll
+C:\Prashant\Projects\ApprovaNextPOCS\APIs\ApprovaOSAuthService\ApprovaOSAuthService\ApprovaOSAuthService\bin\Release\netcoreapp2.0\ApprovaOSAuthService.pdb
+C:\Prashant\Projects\ApprovaNextPOCS\APIs\ApprovaOSAuthService\ApprovaOSAuthService\ApprovaOSAuthService\obj\Release\netcoreapp2.0\ApprovaOSAuthService.csprojResolveAssemblyReference.cache
+C:\Prashant\Projects\ApprovaNextPOCS\APIs\ApprovaOSAuthService\ApprovaOSAuthService\ApprovaOSAuthService\obj\Release\netcoreapp2.0\ApprovaOSAuthService.csproj.CoreCompileInputs.cache
+C:\Prashant\Projects\ApprovaNextPOCS\APIs\ApprovaOSAuthService\ApprovaOSAuthService\ApprovaOSAuthService\obj\Release\netcoreapp2.0\ApprovaOSAuthService.AssemblyInfoInputs.cache
+C:\Prashant\Projects\ApprovaNextPOCS\APIs\ApprovaOSAuthService\ApprovaOSAuthService\ApprovaOSAuthService\obj\Release\netcoreapp2.0\ApprovaOSAuthService.AssemblyInfo.cs
+C:\Prashant\Projects\ApprovaNextPOCS\APIs\ApprovaOSAuthService\ApprovaOSAuthService\ApprovaOSAuthService\obj\Release\netcoreapp2.0\ApprovaOSAuthService.dll
+C:\Prashant\Projects\ApprovaNextPOCS\APIs\ApprovaOSAuthService\ApprovaOSAuthService\ApprovaOSAuthService\obj\Release\netcoreapp2.0\ApprovaOSAuthService.pdb
